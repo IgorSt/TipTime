@@ -1,5 +1,7 @@
 <resources>
     <string name="app_name">Tip Time</string>
 
+    <!-- Main Activity -->
+    <string name="cost_of_service">Cost of service</string>
     <string name="tip_amount">Tip amount: %s</string>
 </resources>
